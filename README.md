@@ -64,7 +64,7 @@ heroku open --app ${HEROKU_APP_NAME}
 ```
 
 ## Example of Running App on Heroku
-![](Docker%20+%20Go%20+%20Heroku/9EE2B7DF-6C07-4B5E-BD23-E7A77C0D3F64.png)
+![](README/9EE2B7DF-6C07-4B5E-BD23-E7A77C0D3F64.png)
 
 ## Adding Heroku.yml
 ```yaml
