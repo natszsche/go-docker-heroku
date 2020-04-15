@@ -76,7 +76,7 @@ build:
 ```
 git add .
 git commit 
-git push heroku master
+git push origin master
 ```
 
 ## TODO
